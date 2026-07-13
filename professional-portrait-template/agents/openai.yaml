@@ -1,0 +1,4 @@
+interface:
+  display_name: "Professional Portrait Template"
+  short_description: "Turn lifestyle photos into fixed editorial portraits."
+  default_prompt: "Use $professional-portrait-template to turn this lifestyle photo into the locked professional portrait template."
